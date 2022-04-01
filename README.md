@@ -1,1 +1,2 @@
-# 8_Weeks_of_Data_Visualization
+# 8 Weeks of Data Visualization (Ongoing)
+This repository contains the different dashboards which are created by me using different business dataset. 
