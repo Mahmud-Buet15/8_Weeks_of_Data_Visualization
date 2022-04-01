@@ -7,6 +7,9 @@ This month (March) we are celebrating Pi Day (14 March) (https://en.wikipedia.or
 
 [Raw Dataset](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/tree/main/Case%20Study%2001/Dataset)
 
+#### Dataset Preview
+![Alt Text](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2001/Dataset/pie%20data%20preview.png)
+
 ## Tasks
 Help Pie Bakery to improve their business by gathering insights from the last two years of pie sales!
 
