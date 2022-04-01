@@ -14,4 +14,9 @@ This month (March) we are celebrating Pi Day (14 March) (https://en.wikipedia.or
 Help Pie Bakery to improve their business by gathering insights from the last two years of pie sales!
 
 ## Solution
-See the Dashboard in [here](https://datastudio.google.com/reporting/fe3e38d1-2acc-4fa4-a0ab-ed2b53b95cf7)
+ 
+Get Dashboard pdf [here](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2001/Pie_Bakery_Dashboard.pdf)
+
+Google Data Studion:  [Link](https://datastudio.google.com/reporting/fe3e38d1-2acc-4fa4-a0ab-ed2b53b95cf7)
+
+
