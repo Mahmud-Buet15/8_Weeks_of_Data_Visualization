@@ -17,6 +17,6 @@ Help Pie Bakery to improve their business by gathering insights from the last tw
  
 Get Dashboard pdf [here](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2001/Pie_Bakery_Dashboard.pdf)
 
-Google Data Studion:  [Link](https://datastudio.google.com/reporting/fe3e38d1-2acc-4fa4-a0ab-ed2b53b95cf7)
+Google Data Studio:  [Link](https://datastudio.google.com/reporting/fe3e38d1-2acc-4fa4-a0ab-ed2b53b95cf7)
 
 
