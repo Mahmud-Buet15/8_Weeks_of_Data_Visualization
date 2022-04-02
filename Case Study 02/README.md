@@ -18,6 +18,6 @@ Need to identify the dominating drivers and constructors of Formula 1 (F1)!
  
 Get Dashboard pdf [here]()
 
-Google Data Studion:  [Link]()
+Google Data Studio:  [Link]()
 
 
