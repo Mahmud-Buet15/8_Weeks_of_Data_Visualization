@@ -1,22 +1,22 @@
-# Case Study 01 
-# Pie Bakery Sales Analysis
+# Case Study 02 
+# Formula 1 (F1) Data Analysis
 ## Dataset Information:
-This month (March) we are celebrating Pi Day (14 March) (https://en.wikipedia.org/wiki/Pi_Day) by analyzing a fictional bakery’s pie data!
+Formula One (also known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA)
 
-[Dataset Source](https://onyxdata.co.uk/dataset_challenge/march-2022/)
+[Dataset Source](https://onyxdata.co.uk/dataset_challenge/april-2022/)
 
-[Raw Dataset](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/tree/main/Case%20Study%2001/Dataset)
+[Raw Dataset](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/tree/main/Case%20Study%2002/Dataset)
 
 #### Dataset Preview
-![Alt Text](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2001/Dataset/pie%20data%20preview.png)
+![Alt Text]()
 
 ## Tasks
-Help Pie Bakery to improve their business by gathering insights from the last two years of pie sales!
+Need to identify the dominating drivers and constructors of Formula 1 (F1)!
 
 ## Solution
  
-Get Dashboard pdf [here](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2001/Pie_Bakery_Dashboard.pdf)
+Get Dashboard pdf [here]()
 
-Google Data Studion:  [Link](https://datastudio.google.com/reporting/fe3e38d1-2acc-4fa4-a0ab-ed2b53b95cf7)
+Google Data Studion:  [Link]()
 
 
