@@ -1,5 +1,5 @@
 # Case Study 02
-# Maven Restaurant Challenge - Investment Analysis
+# MARVEL and DC Production Summary Dashboard
 ## Dataset Information:
 Dataset contains some data of the major movies in the DC and Marvel universes.
 
