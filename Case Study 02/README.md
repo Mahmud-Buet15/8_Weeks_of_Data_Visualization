@@ -11,12 +11,11 @@ Formula One (also known as Formula 1 or F1) is the highest class of internationa
 ![Alt Text](https://github.com/Mahmud-Buet15/8_Weeks_of_Data_Visualization/blob/main/Case%20Study%2002/Dataset/Dataset%20Summary.png) <br>
 
 ## Tasks
-Need to identify the dominating drivers and constructors of Formula 1 (F1)!
+Need to identify which restaurants are potential for investment.
 
 ## Solution
  
 Get Dashboard pdf [here]()
 
-Google Data Studio:  [Link]()
 
 
