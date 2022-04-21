@@ -1,7 +1,7 @@
 # Case Study 02 
-# Formula 1 (F1) Data Analysis
+# Maven Restaurant Challenge - Investment Analysis
 ## Dataset Information:
-Formula One (also known as Formula 1 or F1) is the highest class of international racing for open-wheel single-seater formula racing cars sanctioned by the Fédération Internationale de l'Automobile (FIA)
+Restaurant ratings in Mexico by real consumers from 2012, including additional information about each restaurant and their cuisines, and each consumer and their preferences.
 
 [Dataset Source](https://www.mavenanalytics.io/data-playground?page=2)
 
